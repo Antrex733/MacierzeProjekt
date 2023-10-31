@@ -205,7 +205,6 @@ namespace Macierze
             dgvMacierzA.ReadOnly = true;
             btnAkceptacjaWarMacierzaA.Enabled = false;
             if (btnAkceptacjaWarMacierzaB.Enabled == false 
-                && btnAkceptacjaWarMacierzaB.Enabled == false 
                 && btnGenerujElementyMacierzyB.Enabled == false)
             {
                 //Aktyacja przycisków do obliczeń na macierzach
